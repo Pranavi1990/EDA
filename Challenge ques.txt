@@ -1,0 +1,14 @@
+Challenge Questions
+
+Is there any missing data? If so, visualize it in a plot.
+Remove any columns that you may find not useful for your analysis.
+Plot the top 10 cities with the most accidents.
+Plot the distribution of the start time.
+Is the distribution of accidents by hour the same on weekends as on weekdays?
+What is the distribution of start time on Sundays?
+Create a geographical plot to show accidents across a map of the United States.
+Among the top 100 cities in number of accidents, which states do they belong to most frequently?
+Which months have the most accidents?
+What is the trend of accidents year over year (decreasing/increasing?)
+Great job! Create a dashboard to showcase your insights!
+​
